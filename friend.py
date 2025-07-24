@@ -10,7 +10,10 @@ friends.insert(7, "Zainab")
 print(friends)
 final_list = ["Aisha.M", "Esther", "john"]
 print(final_list)
-print(len(friends[0:5]))
+print("6.6")
+print("ques 7")
+sort = sorted(friends)
+print(sort)
 
 
 
