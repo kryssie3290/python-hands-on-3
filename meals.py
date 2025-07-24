@@ -7,3 +7,21 @@ print(meals)
 meals.insert(6, "fura da nono")
 print(meals)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
